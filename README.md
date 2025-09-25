@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Hello! 
+I am a current UIC computer science student. I am passionate about using  open source technologies that eliminates barriers of entry for developers and creators. I strive to always find new tools and technologies that can be utilized for free.
 <!--
 **AndreiBondad/AndreiBondad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
