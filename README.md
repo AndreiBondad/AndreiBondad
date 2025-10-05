@@ -1,3 +1,5 @@
+# vscode-extensions
+
 Hello! 
 My passion in technology lies in wanting create video games that are both enjoyable and innovative. As someone who's been playing games all my life, the systems and technology used to create them have always intrigued me. I often found myself enjoying learning the process the developers went through to create games as much as playing them.
 
@@ -5,7 +7,7 @@ I am a current student at UIC studying computer science. In my free time, I work
 
 Current Projects:
 
-[Top down shooter]: A classic arcade top down shooter. (https://github.com/AndreiBondad/Godot-Top-Down-Shooter)
+[Top down shooter] (https://github.com/AndreiBondad/Godot-Top-Down-Shooter) : A classic arcade top down shooter. 
 
 <!--
 **AndreiBondad/AndreiBondad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
