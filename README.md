@@ -1,5 +1,8 @@
 Hello! 
-I am a current UIC computer science student. I am passionate about using  open source technologies that eliminates barriers of entry for developers and creators. I strive to always find new tools and technologies that can be utilized for free.
+My passion in technology lies in wanting create video games that are both enjoyable and innovative. As someone who's been playing games all my life, the systems and technology used to create them have always intrigued me. I often found myself enjoying learning the process the developers went through to create games as much as playing them.
+
+I am a current student at UIC studying computer science. In my free time, I work with the open source Godot game engine, and am learning industry standard tools such as the Unreal Game engine. I am also an avid user of other open source technologies that offer similar functionality to paid products, like the video editing software KDenlive or the audio editor Audacity.
+
 <!--
 **AndreiBondad/AndreiBondad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
