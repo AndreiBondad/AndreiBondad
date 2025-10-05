@@ -3,6 +3,10 @@ My passion in technology lies in wanting create video games that are both enjoya
 
 I am a current student at UIC studying computer science. In my free time, I work with the open source Godot game engine, and am learning industry standard tools such as the Unreal Game engine. I am also an avid user of other open source technologies that offer similar functionality to paid products, like the video editing software KDenlive or the audio editor Audacity.
 
+Current Projects:
+
+[Top down shooter]: A classic arcade top down shooter. (https://github.com/AndreiBondad/Godot-Top-Down-Shooter)
+
 <!--
 **AndreiBondad/AndreiBondad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
