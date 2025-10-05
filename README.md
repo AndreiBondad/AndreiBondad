@@ -7,7 +7,7 @@ I am a current student at UIC studying computer science. In my free time, I work
 
 Current Projects:
 
-[Top Down Shooter](https://github.com/AndreiBondad/Godot-Top-Down-Shooter)]: A classic arcade top down shooter. 
+[Top Down Shooter](https://github.com/AndreiBondad/Godot-Top-Down-Shooter): A classic arcade top down shooter. 
 
 <!--
 **AndreiBondad/AndreiBondad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
